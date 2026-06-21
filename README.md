@@ -1,2 +1,14 @@
 # scoremk-resource
-HTML page archive and documentation
+
+页面文件归档说明
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
